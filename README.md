@@ -1,5 +1,4 @@
-# markTwo
-second assignment of neog camp
+
 # MARK TWO
 
 This is "How well do you know India" quiz
